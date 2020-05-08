@@ -18,7 +18,7 @@ Do the command :  `$ git clone https://github.com/debroucker/memory_card.git` to
 You need to have a server, to put the files in it.
 
 ## Start-up
-Add the files on your server, lunch `memory.html` in your server, and enjoy.
+Add the files on your server, launch `memory.html` in your server, and enjoy.
 
 ![home](img/home.png)
 
