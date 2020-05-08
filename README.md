@@ -2,7 +2,7 @@
 
 This project is the game of Memory Card. 
 
-I did it in 2018, during my 3th year of university license. This is a school project, and is developed in JavaScript and Ajax. This project is finished.
+I did it in 2020, during my 3th year of university license. This is a school project, and is developed in JavaScript and Ajax. This project is finished.
 
 ## Rules
 You must discover a couple of card.
