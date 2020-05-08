@@ -1,0 +1,72 @@
+body {
+    background-image: url("../img/background_color.jpg");
+    background-size: cover;
+}
+
+button#homeButton, table, ul {
+    top: 50%; left: 50%; 
+    transform: translate(-50%, -50%); 
+}
+
+button, h3, #countCSS, #nbcardsCSS, #chronoCSS {
+    font-family: 'Lobster', cursive;
+}
+
+button {
+    font-size: 30px;
+    border-radius: 1px;
+}
+
+#countCSS, #nbcardsCSS, #chronoCSS, h1, button#homeButton, table, ul {
+    position: absolute; 
+}
+
+#countCSS, #nbcardsCSS, #chronoCSS{
+    top: 7%;
+    font-size: 25px;
+}
+
+
+h3 {
+    width: 20%;
+    margin-top: 12%;
+    margin-left: 4%;
+    border-width: 3px;
+    border-style: dotted;
+    border-color:whitesmoke;
+    padding: 1%;
+}
+
+#countCSS {
+    left: 15%; 
+}
+
+#nbcardsCSS{
+    left: 40%; 
+}
+
+#chronoCSS {
+    left: 76%; 
+}
+
+h1 {
+    top : 15%; 
+    left : 50%;
+}
+
+table {
+    margin-top: 5%;
+}
+
+img {
+	width: 90px;
+	height: 120px;
+}
+
+h1, ul {
+    font-family: 'Pacifico', cursive;
+}
+
+#underline {
+    text-decoration: blue wavy underline;
+}
